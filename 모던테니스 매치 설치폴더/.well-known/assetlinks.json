@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "dev.pages.my_tennis_app.twa",
-        "sha256_cert_fingerprints": ["32:42:23:94:9E:D4:45:B2:2F:3C:D1:22:2B:29:A8:5D:A7:85:4B:BE:09:3D:27:0C:6D:4F:2F:39:DA:1C:74:08"]
-      }
-    }]
